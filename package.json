@@ -1,0 +1,5 @@
+{ "name" : "foo"
+    , "dependencies" : { "bar" : "0.1.x" }
+    , "scripts": { 
+        "install" : "npm install puppeteer cheerio colors"
+        ,"start" : "node app.js" } }
